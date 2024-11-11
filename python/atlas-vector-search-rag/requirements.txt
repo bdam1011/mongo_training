@@ -1,0 +1,17 @@
+# This file is used by pip to install required python packages
+# Usage: pip install -r requirements.txt
+
+pymongo
+bs4
+openai
+tiktoken
+gradio
+requests
+lxml
+argparse
+unstructured
+PyPDF2
+langchain
+langchain_openai
+langchain_mongodb
+langchain_community
